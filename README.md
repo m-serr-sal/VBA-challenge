@@ -19,7 +19,7 @@ VBA loop that loops through all stocks for one year and provides various outputs
 VBA
 
 ## Usage
-Module Challenge
+Module 2 Challenge
 
 ## Credits
 Mia Serrano-Salow
