@@ -22,7 +22,7 @@ VBA
 Module 2 Challenge
 
 ## Credits
-Mia Serrano-Salow
+Mia Serrano-Salow. I also used the tutoring services provided by the Boot camp for this assignment.
 
 
 
